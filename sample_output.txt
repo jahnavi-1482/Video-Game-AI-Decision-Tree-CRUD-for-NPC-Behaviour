@@ -1,0 +1,51 @@
+===== VIDEO GAME AI DECISION TREE =====
+
+1. Add Node
+2. Delete Node
+3. Update Node
+4. Search Node
+5. Display Tree
+6. Exit
+
+Enter choice: 1
+Enter Node ID: 10
+Enter NPC Decision: Attack Enemy
+Node added successfully!
+
+Enter choice: 1
+Enter Node ID: 5
+Enter NPC Decision: Patrol Area
+Node added successfully!
+
+Enter choice: 5
+
+Decision Tree Nodes:
+Node ID: 5 | Decision: Patrol Area
+Node ID: 10 | Decision: Attack Enemy
+
+Enter choice: 4
+Enter Node ID to search: 10
+Found: Attack Enemy
+
+Enter choice: 3
+Enter Node ID to update: 5
+Enter new decision: Guard Area
+Node updated successfully!
+
+Enter choice: 5
+
+Decision Tree Nodes:
+Node ID: 5 | Decision: Guard Area
+Node ID: 10 | Decision: Attack Enemy
+
+Enter choice: 2
+Enter Node ID to delete: 10
+Node deleted if it existed.
+
+Enter choice: 5
+
+Decision Tree Nodes:
+Node ID: 5 | Decision: Guard Area
+
+Enter choice: 6
+Exiting program...
