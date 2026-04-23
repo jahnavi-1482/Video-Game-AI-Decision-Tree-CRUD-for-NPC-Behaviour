@@ -163,14 +163,23 @@ Node ID: 10 | Decision: Attack Enemy
 
 Project Structure:
 video-game-ai-decision-tree/
+
 │── src/
+
 │   └── main.c
+
 │── docs/
+
 │   └── project_report.pdf
+
 │── ppt/
+
 │   └── presentation.pptx
+
 │── README.md
+
 │── sample_output.txt
+
 │── video_demo_link.txt
 
 
